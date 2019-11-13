@@ -1,0 +1,78 @@
+body {
+    background-color: antiquewhite;
+    text-align:center;}
+
+
+ 
+.block-one h1{
+    font-family: 'Liu Jian Mao Cao', cursive;
+    font-size: 40px;
+    line-height: 30px;
+    color: black;
+    margin:auto;
+    background-color: crimson;}
+.block-one p {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    color: black;
+    width: 1440px;
+    height: 600px;
+    margin:auto;
+    background-color: crimson;}
+
+
+
+
+
+
+.block-two h1{
+    font-family: 'Tangerine', cursive;
+    font-size: 40px;
+    line-height: 30px;
+    color: black;
+    margin:auto;
+    background-color: mediumpurple;}
+.block-two p {
+    font-family: 'Cinzel', serif;
+    font-size: 20px;
+    line-height: 30px;
+    color: black;
+    width: 1440px;
+    height: 600px;
+    margin:auto;
+    background-color: mediumpurple;}
+
+
+
+
+
+.block-three h1{
+    font-family: 'Mr Dafoe', cursive;
+    font-size: 40px;
+    color: black;
+    margin:auto;
+    background-color: aquamarine;}
+.block-three p {
+    font-family: 'Eczar', serif;
+    font-size: 20px;
+    color: black;
+    width: 1440px;
+    height: 600px;
+    margin:auto;
+    background-color: aquamarine;}
+
+
+
+
+
+, h2, h3, h4, h5, h6 {
+    font-family: 'ZCOOL XiaoWei', serif;
+    font-size: 40px;
+    color:black;
+    
+}
+
+p {
+
+}
